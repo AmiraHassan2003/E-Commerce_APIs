@@ -8,7 +8,7 @@ This is a full-featured E-Commerce REST API built using **ASP.NET Core**. It sup
 
 - ASP.NET Core
 - Entity Framework Core (EF Core)
-- MSSQL Server
+- SQL Server
 - RESTful API
 - Swagger (for API documentation)
 
@@ -23,7 +23,7 @@ This is a full-featured E-Commerce REST API built using **ASP.NET Core**. It sup
 - ✅ Add Products to Cart
 - ✅ Calculate Total Price
 - ✅ Checkout and Buy Products
-- ✅ JWT Authentication Ready (if implemented)
+- ✅ JWT Authentication Ready
 - ✅ Clean Routing and Code Organization
 
 ---
@@ -88,11 +88,10 @@ This is a full-featured E-Commerce REST API built using **ASP.NET Core**. It sup
 
 ### Prerequisites
 - .NET 6 or later
-- MSSQL Server
+- SQL Server
 - Visual Studio or VS Code
 
 ### Setup
 
 ```bash
-git clone https://github.com/your-username/ecommerce-dotnet-api.git
-cd ecommerce-dotnet-api
+git clone https://github.com/AmiraHassan2003/E-Commerce_APIs.git
